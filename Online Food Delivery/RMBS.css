@@ -1,0 +1,51 @@
+body{
+	background-color: white;
+}
+.header{
+	text-align: center;
+	border:1px solid #cbcbcb;
+	box-shadow: 1px 2px 2px rgba(0, 0, 0, .5);
+}
+.hometable{
+
+	padding-top: 80px;
+}
+table
+{
+	position: relative;
+    background: skyblue;
+	box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, .5);
+    width:40%;
+    padding:30px;
+    border:1px solid #cbcbcb;
+    margin:5px auto;
+}
+.adminbutton{
+	background-color: rgba(255, 0, 0, 0.4);
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+div.adminbutton img{
+	height: 275px;
+	width: 275px;
+}
+.stuffbutton{
+
+	background-color: rgba(0, 0, 255, 0.4);
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+
+}
+div.stuffbutton img{
+	background-color: 
+	height: 275px;
+	width: 275px;
+}
+#adminname{
+	background-color: red;
+	color: white;
+	text-align: center;
+}
+#stuffname{
+	background-color: blue;
+	color: white;
+	text-align: center;
+}

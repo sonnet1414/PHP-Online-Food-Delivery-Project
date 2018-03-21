@@ -1,0 +1,57 @@
+
+body
+{
+  padding:0px;
+  margin:0px;
+}
+.header{
+	text-align: center;
+	border:1px solid #cbcbcb;
+	box-shadow: 1px 2px 2px rgba(0, 0, 0, .5);
+}
+.logintable{
+	padding-top: 80px;
+}
+form
+{
+position: relative;
+box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, .5);
+width:40%;
+padding:3px;
+border:1px solid #cbcbcb;
+margin:5px auto;
+}
+.textInput
+{
+margin-top:2px;
+height:28px;
+border:1px solid #5E6E66;
+font-size:16px;
+padding:1px;
+width:100%;
+}
+
+td
+{
+  text-align:right;
+}
+#error_msg
+{
+    width:50%;
+    margin:5px auto;
+    height:30px;
+    border:1px solid #FF0000;
+    background:#FFB9B8;
+   color:#FF0000;
+   text-align:center;
+   padding-top:10px;
+}
+.showbutton{
+  margin-top: 10px;
+  padding: 10px;
+  position: fixed;
+  box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, .5);
+  left: 400px;
+  width: 500px;
+  color: white;
+}
